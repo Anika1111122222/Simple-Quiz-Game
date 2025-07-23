@@ -2,7 +2,7 @@
 
 This is a simple quiz game written in Go.
 
-![Quiz Game Screenshot](https://via.placeholder.com/600x300.png?text=Quiz+Game+Screenshot)
+![Quiz Game Screenshot](https://github.com/Anika1111122222/Simple-Quiz-Game/blob/e6c6979723002a4179d011ecdbc0bd6147aefba4/go%20first%20project%20pic%201.JPG)
 
 ## How to Run
 
@@ -22,7 +22,7 @@ go run main.go
 
 ## Contact
 
-- Facebook: [https://facebook.com/yourusername](https://www.facebook.com/profile.php?id=100085514410393)
-- LinkedIn: [https://linkedin.com/in/yourusername](https://www.linkedin.com/in/anika-sultana123/)
+- Facebook: [https://www.facebook.com/profile.php?id=100085514410393]
+- LinkedIn: [https://www.linkedin.com/in/anika-sultana123/]
 - Email: sultanaanika437@gmail.com
 
